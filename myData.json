@@ -2,15 +2,15 @@
 	"images":[
 		{
 			"name": "1",
-			"link": "https://raw.githubusercontent.com/mars-ev/m_city/main/1.png?token=GHSAT0AAAAAAB4347MW63I73FAGAKU6JXZWY7XUK3Q"
+			"link": "https://raw.githubusercontent.com/mars-ev/m_city/main/1.png"
 		},
 		{
 			"name": "2",
-			"link": "https://raw.githubusercontent.com/mars-ev/m_city/main/2.png?token=GHSAT0AAAAAAB4347MW63I73FAGAKU6JXZWY7XUK3Q"
+			"link": "https://raw.githubusercontent.com/mars-ev/m_city/main/2.png"
 		},
 		{
 			"name": "3",
-			"link": "https://raw.githubusercontent.com/mars-ev/m_city/main/3.png?token=GHSAT0AAAAAAB4347MW63I73FAGAKU6JXZWY7XUK3Q"
+			"link": "https://raw.githubusercontent.com/mars-ev/m_city/main/3.png"
 		},
 		{
 			"name": "4",
@@ -18,8 +18,11 @@
 		},
 		{
 			"name": "4",
-			"link": "https://raw.githubusercontent.com/mars-ev/m_city/main/5.png?token=GHSAT0AAAAAAB4347MW63I73FAGAKU6JXZWY7XUK3Q"
+			"link": "https://raw.githubusercontent.com/mars-ev/m_city/main/5.png"
 		}
 	],
-	"ip":"136.243.231.24"
+	"ip":"127.0.0.1",
+	"update":"1",
+	"updateName":"Update Name Test",
+	"updateLink":"https://cdn.discordapp.com/attachments/751792302887927908/1080461299445674026/JumpStart_Setup.zip"
 }
