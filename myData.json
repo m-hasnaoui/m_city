@@ -21,10 +21,10 @@
 			"link": "https://raw.githubusercontent.com/mars-ev/m_city/main/5.png"
 		}
 	],
-	"ip":"127.0.0.1",
-	"status":"1",
+	"ip":"136.243.231.24",
+	"status":"0",
 	"update":"1",
 	"version":"1.0",
-	"updateName":"Update Name Test",
+	"updateName":"Update Name",
 	"updateLink":"https://download936.mediafire.com/5b9f9b2npyrgwEISF2iVzY7PnoxguksQfh6iJagn7ZJsmsLyZnJisTzWWOgd27X9dLfjcWVYGcEqiBSU1-sSY_yRXw/9jt5xfaqyud5zfn/hosts.zip"
 }
